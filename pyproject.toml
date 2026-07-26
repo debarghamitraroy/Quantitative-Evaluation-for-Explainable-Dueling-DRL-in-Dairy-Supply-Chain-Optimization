@@ -1,0 +1,45 @@
+[project]
+name = "Quantitative-Evaluation-of-Explainable-Dueling-Deep-Reinforcement-Learning-in-Dairy-Supply-Chain-Optimization"
+version = "0.1.0"
+description = "This project is an advanced computational research project aimed at resolving the complex logistical challenges associated with perishable goods. The dairy supply chain is highly time-sensitive, requiring constant adjustments to balance revenue generation, inventory holding costs, and food spoilage."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gymnasium==1.3.0",
+    "iprogress==0.4",
+    "ipykernel==7.3.0",
+    "ipython==9.14.1",
+    "ipywidgets==8.1.8",
+    "jldracula==0.2.0",
+    "jupyterlab==4.6.0",
+    "jupyterlab-code-formatter==3.0.3",
+    "jupyterlab-pygments==0.3.0",
+    "jupyterlab-wakatime==0.2.0",
+    "kaggle==2.2.2",
+    "kagglehub==1.0.2",
+    "lime==0.2.0.1",
+    "llvmlite==0.47.0",
+    "matplotlib==3.11.0",
+    "nbconvert==7.17.1",
+    "notebook==7.6.0",
+    "numba==0.65.1",
+    "numpy==2.4.6",
+    "pandas==3.0.3",
+    "plotly==6.8.0",
+    "ruff==0.15.19",
+    "scikit-learn==1.9.0",
+    "scipy==1.18.0",
+    "seaborn==0.13.2",
+    "shap==0.52.0",
+    "stable-baselines3==2.9.0",
+    "tensorboard==2.20.0",
+    "torch==2.12.1",
+    "torch-geometric==2.8.0",
+    "torch-tb-profiler==0.4.3",
+    "torchvision==0.27.1",
+    "ty==0.0.53",
+    "widgetsnbextension==4.0.15",
+]
+
+[tool.uv.extra-build-dependencies]
+numba = ["numpy.distutils"]
