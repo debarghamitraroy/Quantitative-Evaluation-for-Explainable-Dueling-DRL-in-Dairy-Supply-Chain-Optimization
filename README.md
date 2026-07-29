@@ -1,4 +1,4 @@
-# Quantitative Evaluation of Explainable Dueling Deep Reinforcement Learning in Dairy Supply Chain Optimization
+# Quantitative Evaluation for Explainable Dueling Deep Reinforcement Learning in Dairy Supply Chain Optimization
 
 > An Explainable Offline Deep Reinforcement Learning framework for optimizing dynamic pricing and inventory control in dairy supply chains using Dueling Networks, SHAP, and quantitative Explainable AI (XAI) evaluation.
 

@@ -1,5 +1,5 @@
 [project]
-name = "Quantitative-Evaluation-of-Explainable-Dueling-Deep-Reinforcement-Learning-in-Dairy-Supply-Chain-Optimization"
+name = "Quantitative-Evaluation-for-Explainable-Dueling-Deep-Reinforcement-Learning-in-Dairy-Supply-Chain-Optimization"
 version = "0.1.0"
 description = "This project is an advanced computational research project aimed at resolving the complex logistical challenges associated with perishable goods. The dairy supply chain is highly time-sensitive, requiring constant adjustments to balance revenue generation, inventory holding costs, and food spoilage."
 readme = "README.md"
